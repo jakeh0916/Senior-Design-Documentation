@@ -1,4 +1,4 @@
-Team Name: Fishbowl (working name)
+Team Name: Fishbowl
 
 Team Members:
 - Jake Huseman (husemajd@mail.uc.edu)
@@ -7,4 +7,4 @@ Team Members:
 
 Project Topic:
 - VR/AR/Mixed Reality
-- Data or (interior) design visualization
+- Application for creating and taking VR/AR lessons/tutorials on any topic. Instructors can create tutorials in VR and students can look up these tutorials to complete interactively in VR.
