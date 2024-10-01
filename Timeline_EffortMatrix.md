@@ -25,7 +25,7 @@
 
 | October 2024 | November 2024 | December 2024 | January 2025 | February 2025 | March 2025 | April 2025 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Project Setup (Task: 1, 2, 3) | Project Setup Task: 1, 2, 3 |
+| Project Setup (Task: 1, 2, 3) | Project Setup (Task: 1, 2, 3) |
 || Research and Mockups (Tasks: 4, 6, 11, 13, 8) | Research and Mockups (Tasks: 4, 6, 11, 13, 8)|
 ||| VR Prototype (Tasks: 5, 9, 10, 12) |  VR Prototype (Tasks: 5, 9, 10, 12) | VR Prototype (Tasks: 5, 9, 10, 12) |
 ||| Web Prototype (Tasks: 7, 9, 10, 12) |  Web Prototype (Tasks: 7, 9, 10, 12) |  Web Prototype (Tasks: 7, 9, 10, 12) |
