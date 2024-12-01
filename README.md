@@ -30,6 +30,13 @@ User Stories 3 & 4: Factory Navigation.
 
 ## 3b. Design Diagrams
 
+![image](https://github.com/user-attachments/assets/3a5e4832-f41c-418c-86e2-aedde4595bf8)
+
+![image](https://github.com/user-attachments/assets/04a9fea0-81d4-4c28-b26f-0a2b32e36523)
+
+![image](https://github.com/user-attachments/assets/c0fbc7fd-eb2e-43e0-9c5d-75a0de7949f9)
+
+
 ## 4a. Task List
 
 | No.   | Task  | Primary Person |
@@ -56,12 +63,12 @@ User Stories 3 & 4: Factory Navigation.
 
 ## 4b. Timeline
 
-1. Completed: ~~Project Setup : We would like to have a GitHub project setup and a GitHub project setup to make a single repository for the project code and use the project integrations in Github to track new features and issues.~~
-    1. Date: October 1 - November 1
-    2. Tasks: 1, 2, 3
-2. Completed: ~~Research and Mockups: We would like to research VR technology and use cases for our project~~
-    1. Date: November 1 - December 31
-    2. Tasks: 4, 6, 11, 13, 8
+1. **Completed.** ~~Project Setup : We would like to have a GitHub project setup and a GitHub project setup to make a single repository for the project code and use the project integrations in Github to track new features and issues.~~
+    1. ~~Date: October 1 - November 1~~
+    2. ~~Tasks: 1, 2, 3~~
+2. **Completed.** ~~Research and Mockups: We would like to research VR technology and use cases for our project~~
+    1. ~~Date: November 1 - December 31~~
+    2. ~~Tasks: 4, 6, 11, 13, 8~~
 3. VR Prototype : We would like to create a basic proof of concept application that solves the most basic instance of the problem which is creating and taking interactive 3D lessons.
     1. Date: Jan 1 - Mar 1
     2. Tasks: 5, 9, 10, 12
