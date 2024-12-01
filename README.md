@@ -30,12 +30,21 @@ User Stories 3 & 4: Factory Navigation.
 
 ## 3b. Design Diagrams
 
-![image](https://github.com/user-attachments/assets/3a5e4832-f41c-418c-86e2-aedde4595bf8)
+![image](https://github.com/user-attachments/assets/f4e1edb0-60f2-47ac-9fc2-ba3c7e5f6746)
 
-![image](https://github.com/user-attachments/assets/04a9fea0-81d4-4c28-b26f-0a2b32e36523)
+Our D0 Diagram describes the relation between the User, the Fishbowl VR Application, and the Fishbowl Website.
 
-![image](https://github.com/user-attachments/assets/c0fbc7fd-eb2e-43e0-9c5d-75a0de7949f9)
+All diagrams follow UML conventions extended for the [C4](https://c4model.com/) diagramming method (in this case, simplified to three levels: D0, D1, D2.)
 
+![image](https://github.com/user-attachments/assets/de7c9308-355f-4fe4-af17-df098bdcc672)
+
+Our D1 and D2 Diagrams show the main components at play for this project. We envision our application as being primarily a VR Application (requiring a PC and VR Headset) that allows users to create and experience virtual lessons (such as changing a tire, welding, setting an IV, etc.). The left half of the diagram expresses this part of the application.
+ 
+On the right for both diagrams, we’ve detailed a “stretch goal” for the project where users can upload/download lessons to/from the website and database. This allows users to share their custom lessons and experience lessons created by other users.
+
+![image](https://github.com/user-attachments/assets/25b1bb7b-e47b-4b15-88f1-81bf7740a064)
+
+In the D2 Diagram, the detail is increased, and we can now see the inner workings of saving and loading lessons, interacting with the Fishbowl application, and interacting with the Fishbow web interface and database.
 
 ## 4a. Task List
 
