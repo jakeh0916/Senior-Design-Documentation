@@ -2,7 +2,7 @@
 
 ## 1. Our Team & Project Abstract
 
-Our team includes [Caleb Hendrix](hendricw@mail.uc.edu), [Jake Huseman](husemajd@mail.uc.edu), and [Sean Thomas](thoma3sw@mail.uc.edu). Our faculty advisor is [Jillian Aurisano](aurisajm@ucmail.uc.edu).
+Our team includes Caleb Hendrix (hendricw@mail.uc.edu), Jake Huseman (husemajd@mail.uc.edu), and Sean Thomas (thoma3sw@mail.uc.edu). Our faculty advisor is Jillian Aurisano (aurisajm@ucmail.uc.edu).
 
 ## 2. Project Description
 
