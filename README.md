@@ -165,7 +165,7 @@ Safety in VR is a constraint that we will have to consider throughout developmen
 
 [Caleb Hendrix's Self-Assessment](/Assignments/CapstoneAssessments/IndividualAssessmentHendrix.md)
 
-[Sean Thomas' Self-Assessment](/Assignments/CapstoneAssessments/IndividualCapstoneAssessmentSeanThomas.md)
+[Sean Thomas' Self-Assessment](/Assignments/CapstoneAssessments/IndividualCapstoneAssesmentSeanThomas.md)
 
 ## 8. Professional Biographies
 
