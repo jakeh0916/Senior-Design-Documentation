@@ -128,11 +128,44 @@ In the D2 Diagram, the detail is increased, and we can now see the inner working
 | 18 | Caleb, Jake, Sean | 33% from all | N/A |
 | 19 | Caleb, Jake, Sean | 33% from all | N/A |
 
-## 5.
+## 5. ABET Concerns Essay
+We have a few constraints that we need to keep in mind when working on our project including funds, knowledge, and safety.
 
-## 6.
+One of our main constraints has to do with funds as we have to supply them ourselves. We need to be able to acquire at least one VR/AR headset in order to develop, test, and demo our project. Our project also involves hosting a web application which is going to cost us some amount of money even if it’s not large. Luckily, a lot of the development tools we need are open source or free to use but there is a chance that we might need to purchase a tool in order to use in our project. Where we are now in our project, we have yet to have to purchase anything for our project and we do not forsee the need to in the near future.
 
-## 7.
+In order to successfully complete the project that we have planned, an interactive 3D Virtual Reality course lab, each member will need to acquire professional expertise in this niche area. Acquiring this technical skill will take time to research best practices, become familiar with the standards of the tools used and develop some skill in using these tools. There will need to be a conscious effort made so that the time spent acquiring these skills does not impede the development of the final solution. If we can succeed in mitigating the upfront time spent developing these professional skills, then we can increase the likelihood of completing our desired project.
+
+Safety in VR is a constraint that we will have to consider throughout development, testing, and eventually in our final product and demo. Features like “passthrough” allow users to see real-world obstacles in front of them (as to avoid collision, etc.), and many of these safety features are built into the Quest headsets we will be using. Additionally, we will want to consider how the connection cords affect the ability of users to perform different actions in VR. (This is a common problem in VR.) Finally, during our demo at the Senior Design expo, we will need to ensure that we have an open space free of obstructions to allow users to test our application, and they should be comfortable and safe within our area.
+
+## 6. PPT Slideshow
+![image](https://github.com/user-attachments/assets/55f0800e-8b5b-4e28-9305-f775edad0490)
+
+![image](https://github.com/user-attachments/assets/9b2257d0-0784-4b62-b6a1-e20a49d66755)
+
+![image](https://github.com/user-attachments/assets/ce7df373-efcf-4a91-82cc-a92cca66a7ed)
+
+![image](https://github.com/user-attachments/assets/b9eb9a98-71f7-4133-b6e6-c6fed91af535)
+
+![image](https://github.com/user-attachments/assets/b1825f8b-944b-414d-bdab-2de0340ed4cf)
+
+![image](https://github.com/user-attachments/assets/0921b4b8-1d78-4c42-89eb-8ce33f45fb88)
+
+![image](https://github.com/user-attachments/assets/8e09a195-0f62-4432-91dd-354b7f32f7d8)
+
+![image](https://github.com/user-attachments/assets/fd464d1a-2b08-4202-b1fe-94f05de9dc41)
+
+![image](https://github.com/user-attachments/assets/4c9f7eb4-157b-4160-bd23-99b21af2cb92)
+
+![image](https://github.com/user-attachments/assets/8615440f-2e02-480d-8bca-a7e3394df80f)
+
+![image](https://github.com/user-attachments/assets/bd522790-bb1d-4149-9043-a31c23d14163)
+
+## 7. Self-Assessment Essays
+[Jake Huseman's Self-Assessment](/Assignments/CapstoneAssessments/IndividualAssessmentHuseman.md)
+
+[Caleb Hendrix's Self-Assessment](/Assignments/CapstoneAssessments/IndividualAssessmentHendrix.md)
+
+[Sean Thomas' Self-Assessment](/Assignments/CapstoneAssessments/IndividualCapstoneAssessmentSeanThomas.md)
 
 ## 8. Professional Biographies
 
